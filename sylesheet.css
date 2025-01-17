@@ -553,9 +553,13 @@ footer {
     body {
         background-color:black;
     }
+    nav {
+        display:block;
+    }
 }
 @media screen and (max-width: 1200px) {
     body {
         background-color:white;
     }
 }
+
